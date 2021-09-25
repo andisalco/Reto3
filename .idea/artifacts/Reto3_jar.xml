@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Reto3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Reto3_jar</output-path>
+    <root id="archive" name="Reto3.jar">
+      <element id="module-output" name="Reto3" />
+    </root>
+  </artifact>
+</component>
